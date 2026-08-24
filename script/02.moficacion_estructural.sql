@@ -1,0 +1,2 @@
+ALTER TABLE dbo.FoodTrucks
+ADD COLUMN size VARCHAR(50)
